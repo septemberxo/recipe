@@ -1,3 +1,5 @@
+import React from "react";
+
 function RecipeView({recipe, RecipeDelete}) {
     return (
           <tr className="row">
